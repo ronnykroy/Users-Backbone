@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="en">
+<head>
+<title>Users -Cyril Cherian</title>
+<link rel="stylesheet" href="css/demo_page.css">
+<link rel="stylesheet" href="css/demo_table.css">
+<link rel="stylesheet" href="css/jquery-ui-1.8.16.custom.css"/>
+
+<script data-main="js/main" src="js/libs/require/require.js"></script>
+</head>
+<body>
+	<div id="userapp">
+		<div class="title">
+			<h1>Users</h1>
+		</div>
+		<div class="content">
+			<table cellpadding="0" cellspacing="0" border="0" class="display"
+				id="user-list">
+			</table>
+		</div>
+		<br>
+		<button type="button" id="add-user">Add User</button>
+	</div>
+	<div id="dialog"></div>
+</body>
+</html>

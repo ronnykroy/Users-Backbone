@@ -1,0 +1,5 @@
+Sample application using Backbone framework.
+App provides facility to add and edit user details.
+Application uses Jquery datatable and has features like search, paging and filter.
+
+
